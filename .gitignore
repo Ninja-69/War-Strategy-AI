@@ -1,0 +1,4 @@
+data/embeddings/
+__pycache__/
+*.pyc
+*.log
