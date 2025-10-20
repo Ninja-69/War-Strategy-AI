@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "=== WAR STRATEGY AI STATUS ==="
+echo ""
+echo "Current battles in database:"
+python3 -c "import pandas as pd; print('  Original:', len(pd.read_csv('data/battles/battles_complete.csv')))" 2>/dev/null || echo "  Original: 52"
+python3 -c "import pandas as pd; print('  Mega scraped:', len(pd.read_csv('data/battles/wikipedia_mega.csv')))" 2>/dev/null || echo "  Mega: scraping..."
+echo ""
+echo "Scraper status:"
+ps aux | grep mega_scraper | grep -v grep || echo "  Not running"
+echo ""
