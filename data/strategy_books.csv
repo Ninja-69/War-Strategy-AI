@@ -1,0 +1,1587 @@
+book,section,text,source
+Book of Five Rings,1,"<!DOCTYPE html>
+<html lang=""en"">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+  <head data-release=0082f33f data-node=""www18.us.archive.org"">
+    <title>Full text of &quot;A book of five rings&quot;</title>
+
+          <meta name=""viewport"" content=""width=device-width, initial-scale=1.0""/>
+    
+        <meta name=""google-site-verification"" content=""Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8"" />
+    <meta name=""google-site-verification"" content=""bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk"" />
+
+    <meta name=""baggage"" content=""sentry-trace_id=ca442f96b44e4210921c0a1769876d4f,sentry-sample_rate=0.001,sentry-transaction=%2Fdownload.php,sentry-public_key=94bf3037c1e245c8a927aaa4daad2dbb,sentry-environment=production,sentry-sampled=false""/>    <meta name=""sentry-trace"" content=""ca442f96b44e4210921c0a1769876d4f-7a182309170a40fa-0""/>
+    <script  nonce=""f84f71ab6233ee36740a94d58460f5ea"" >
+/* @licstart  The following is the entire license notice for the
+ * JavaScript code in this page.
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * @licend  The above is the entire license notice
+ * for the JavaScript code in this page.
+ */
+</script>
+        <meta charset=""UTF-8"">
+                      <meta property=""mediatype"" content=""texts"">
+                      <meta property=""primary_collection"" content="""">
+ ",Archive.org
+Book of Five Rings,2,"           <script src=""//archive.org/includes/athena.js?v=0082f33f"" type=""text/javascript""></script>
+    <script src=""//archive.org/includes/apollo.js?v=0082f33f"" type=""text/javascript""></script>
+    <script src=""//archive.org/components/npm/lit/polyfill-support.js?v=0082f33f"" type=""text/javascript""></script>
+    <script src=""//archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=0082f33f"" type=""text/javascript""></script>
+<script nonce=""f84f71ab6233ee36740a94d58460f5ea"" >
+      window.__realDefine = customElements.define.bind(customElements);
+      customElements.define = function() {
+        try {
+          return window.__realDefine.apply(this, arguments);
+        } catch (e) {
+          console.warn(e);
+        }
+      }
+    </script>    <script src=""//archive.org/includes/build/js/ia-topnav.min.js?v=0082f33f"" type=""text/javascript""></script>
+    <script src=""//archive.org/includes/build/js/archive.min.js?v=0082f33f"" type=""text/javascript""></script>
+<link rel=""canonical"" href=""https://archive.org/details/bookoffiverings00miya"">
+    <link href=""//archive.org/includes/build/css/archive.min.css?v=0082f33f"" rel=""stylesheet"" type=""text/css""/>
+    <link rel=""SHORTCUT ICON"" href=""https://archive.org/images/glogo.jpg""/>
+  </head>
+  <body class=""navia "">
+    <a href=""#maincontent"" class=""hidden-for-screen-readers"">Skip to main content</a>
+
+    <!-- Wraps all page content -->
+    <div id=""wrap""
+          >
+                    <div class=""ia-banners"">
+              <div
+        class=""ia-banner hidden post-appeal-20240905""
+        data-campaign=""post-appeal-20240905"">
+        <p><a href=""https://change.org/LetReadersRead"" rel=""ugc nofollow"">Ask the publishers</a> to restore access to 500,000+ books.</p>
+        <form class=""banner-close"" action="""" method=""get"" data-action=""ia-banner-close"">
+          <fieldset>
+            <button aria-label=""Close Banner"" type=""submit""></button>
+          </fieldset>
+        </form>
+      </div>
+          </",Archive.org
+Book of Five Rings,3,"div>
+                    <div id=""topnav"">
+              <input class=""js_nav_tweaks"" type=""hidden"" value='[]'/>
+    <!-- Shady DOM styles for icon-hamburger -->
+<style scope=""icon-hamburger-1"">
+  .icon-hamburger-1 svg.icon-hamburger {
+    display: block;
+    height: 4rem;
+    width: 4rem;
+  }
+
+  .icon-hamburger-1 .fill-color.icon-hamburger {
+    fill: #fff;
+  }
+</style><!-- Shady DOM styles for login-button -->
+<style scope=""login-button-1"">
+  .login-button-1 .dropdown-toggle.login-button {
+    display: block;
+    text-transform: uppercase;
+    color: #ccc;
+    cursor: pointer;
+  }
+
+  .login-button-1 .dropdown-toggle.login-button svg.login-button {
+    height: 100%;
+    width: 4rem;
+  }
+
+  .login-button-1 .dropdown-toggle.login-button .fill-color.login-button {
+    fill: #999;
+  }
+
+  .login-button-1 .dropdown-toggle.login-button:active .fill-color.login-button,
+  .login-button-1 .dropdown-toggle.login-button:focus .fill-color.login-button,
+  .login-button-1 .dropdown-toggle.login-button:hover .fill-color.login-button {
+    fill: #fff;
+  }
+
+  .login-button-1 .active.login-button {
+    border-radius: 1rem 1rem 0 0;
+    background: #333;
+  }
+
+  .login-button-1 .active.login-button .fill-color.login-button {
+    fill: #fff;
+  }
+
+  .login-button-1 span.login-button {
+    display: none;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    color: #999;
+  }
+
+  .login-button-1 span.login-button a.login-button {
+    color: inherit;
+    text-decoration: none;
+    outline: 0;
+  }
+
+  .login-button-1 a.login-button:hover,
+  .login-button-1 a.login-button:active,
+  .login-button-1 a.login-button:focus {
+    color: #fff !important;
+    outline: none !important;
+    outline-offset: inherit !important;
+  }
+
+  @media (min-width: 890px) {
+    .login-button-1 .logged-out-toolbar.login-button {
+      padding: 1rem 0.5rem;
+      vertical-align: middle;
+    }
+
+    .login-button-1 .active.login-button {
+      background: transparent;
+    }
+
+    .login-button-1 .dropdown-toggle.login-b",Archive.org
+Book of Five Rings,4,"utton {
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    .login-button-1 .dropdown-toggle.login-button svg.login-button {
+      height: 3rem;
+      width: 3rem;
+      display: block;
+    }
+
+    .login-button-1 span.login-button {
+      display: inline;
+      vertical-align: middle;
+    }
+
+  }
+</style><!-- Shady DOM styles for nav-search -->
+<style scope=""nav-search-1"">
+  .nav-search-1 input.nav-search[type=""text""] {
+    color: #222;
+  }
+
+  .nav-search-1 input.nav-search:focus {
+    outline: none;
+  }
+
+  .nav-search-1 button.nav-search {
+    background: none;
+    color: inherit;
+    border: none;
+    font: inherit;
+    cursor: pointer;
+  }
+
+  .nav-search-1 button.nav-search:focus {
+    outline: none;
+  }
+
+  .nav-search-1 .search.nav-search {
+    padding-top: 0;
+    margin-right: 0.5rem;
+  }
+
+  .nav-search-1 .search.nav-search svg.nav-search {
+    position: relative;
+    fill: ;
+  }
+
+  .nav-search-1 .search-activated.nav-search {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: absolute;
+    top: 0;
+    right: 4rem;
+    bottom: 0;
+    left: 4rem;
+    z-index: 3;
+    padding: 0.5rem 0.2rem;
+    border-radius: 1rem 1rem 0 0;
+    background: #333;
+  }
+
+  .nav-search-1 .search-inactive.nav-search {
+    display: none;
+  }
+
+  .nav-search-1 .search-activated.nav-search .highlight.nav-search,
+  .nav-search-1 .search-activated.nav-search .search.nav-search {
+    background: #fff;
+    border-radius: 0.5rem;
+  }
+
+  .nav-search-1 .search-activated.nav-search .highlight.nav-search {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    margin: 0 0.5rem;
+  }
+
+  .nav-search-1 .search-activated.nav-search .search.nav-search {
+    height: 100%;
+    padding: 0;
+    margin-right: 0;
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+  }
+
+  .nav-search-1 .search-activated.nav-search .search.nav-search svg.nav-search {
+    height: 3rem;
+    width: 3rem;
+  }
+",Archive.org
+Book of Five Rings,5,"
+  .nav-search-1 .search-activated.nav-search .search-field.nav-search {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    padding-left: 1rem;
+    border-radius: 0.5rem;
+    border: none;
+    font-size: 1.6rem;
+    text-align: center;
+  }
+
+  .nav-search-1 .search-activated.nav-search .search-field.nav-search:focus {
+    outline: none;
+  }
+
+  @keyframes fade-in-nav-search-1 {
+    0% {
+      opacity: 0;
+    }
+
+    100% {
+      opacity: 1;
+    }
+
+  }
+
+  .nav-search-1 .fade-in.nav-search {
+    animation: fade-in-nav-search-1 0.2s forwards;
+  }
+
+  @media (min-width: 890px) {
+    .nav-search-1 .search.nav-search svg.nav-search {
+      display: inline;
+      width: 2.8rem;
+      height: 2.8rem;
+      vertical-align: -14px;
+    }
+
+    .nav-search-1 .search.nav-search path.nav-search {
+      fill: #333;
+    }
+
+    .nav-search-1 .search-inactive.nav-search,
+    .nav-search-1 .search-activated.nav-search {
+      display: block;
+      position: static;
+      padding: 1.1rem 0.2rem;
+      background: transparent;
+    }
+
+    .nav-search-1 .search-activated.nav-search .highlight.nav-search {
+      width: 13rem;
+      height: 2.8rem;
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+      flex-direction: row-reverse;
+    }
+
+    .nav-search-1 .search-activated.nav-search .search-field.nav-search {
+      width: calc(100% - 28px);
+      height: 100%;
+      padding-left: 0;
+      font-size: 1.4rem;
+      text-align: left;
+    }
+
+    .nav-search-1 .search-activated.nav-search .search.nav-search svg.nav-search {
+      width: 2.8rem;
+      height: 2.8rem;
+    }
+
+  }
+</style><!-- Shady DOM styles for media-button -->
+<style scope=""media-button-1"">
+  .media-button-1 a.media-button {
+    display: inline-block;
+    text-decoration: none;
+  }
+
+  .media-button-1 .menu-item.media-button {
+    display: inline-block;
+    width: 100%;
+    padding: 0;
+    font-size: 1.6rem;
+    text-align: left;
+    background: transpa",Archive.org
+Book of Five Rings,6,"rent;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .media-button-1 .menu-item.media-button:focus {
+    outline: none;
+  }
+
+  .media-button-1 .label.media-button {
+    display: inline-block;
+    padding: 0;
+    font-weight: 400;
+    color: #fff;
+    text-align: left;
+    vertical-align: middle;
+  }
+
+  .media-button-1 .menu-item.media-button>.icon.media-button {
+    display: inline-flex;
+    vertical-align: middle;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .media-button-1 .menu-item.media-button>.icon.media-button>svg.media-button {
+    height: 4rem;
+    width: 4rem;
+  }
+
+  .media-button-1 .menu-item.selected.media-button .icon.media-button {
+    background-color: #333;
+    border-radius: 1rem 0 0 1rem;
+  }
+
+  .media-button-1 .icon.media-button .fill-color.media-button {
+    fill: #999;
+  }
+
+  .media-button-1 .icon.active.media-button .fill-color.media-button {
+    fill: #fff;
+  }
+
+  .media-button-1 .donate.media-button .fill-color.media-button {
+    fill: #f00;
+  }
+
+  @media (min-width: 890px) {
+    .media-button-1 .menu-item.media-button {
+      width: auto;
+      height: 5rem;
+      color: #999;
+      display: inline-flex;
+    }
+
+    .media-button-1 .menu-item.media-button:hover,
+    .media-button-1 .menu-item.media-button:active,
+    .media-button-1 .menu-item.media-button:focus {
+      color: #fff;
+    }
+
+    .media-button-1 .menu-item.media-button:hover .fill-color.media-button,
+    .media-button-1 .menu-item.media-button:active .fill-color.media-button,
+    .media-button-1 .menu-item.media-button:focus .fill-color.media-button {
+      fill: #fff;
+    }
+
+    .media-button-1 .label.media-button {
+      display: none;
+    }
+
+    .media-button-1 .label.media-button,
+    .media-button-1 .web.media-button:after {
+      padding-right: 1rem;
+      font-size: 1.3rem;
+      text-transform: upp",Archive.org
+Book of Five Rings,7,"ercase;
+      color: inherit;
+    }
+
+    .media-button-1 .web.media-button:after {
+      display: none;
+      content: ""web"";
+    }
+
+    .media-button-1 .donate.media-button,
+    .media-button-1 .more.media-button {
+      display: none;
+    }
+
+    .media-button-1 .menu-item.selected.media-button {
+      background: #474747;
+    }
+
+    .media-button-1 .menu-item.selected.media-button .label.media-button,
+    .media-button-1 .menu-item.selected.web.media-button:after {
+      color: #fff;
+    }
+
+    .media-button-1 .menu-item.selected.media-button .icon.media-button {
+      background: transparent;
+    }
+
+    .media-button-1 .web.selected.media-button .fill-color.media-button {
+      fill: #ffcd27;
+    }
+
+    .media-button-1 .texts.selected.media-button .fill-color.media-button {
+      fill: #faab3c;
+    }
+
+    .media-button-1 .video.selected.media-button .fill-color.media-button {
+      fill: #f1644b;
+    }
+
+    .media-button-1 .audio.selected.media-button .fill-color.media-button {
+      fill: #00adef;
+    }
+
+    .media-button-1 .software.selected.media-button .fill-color.media-button {
+      fill: #9ecc4f;
+    }
+
+    .media-button-1 .images.selected.media-button .fill-color.media-button {
+      fill: #aa99c9;
+    }
+
+  }
+
+  @media (min-width: 1200px) {
+
+    .media-button-1 .label.media-button,
+    .media-button-1 .web.media-button:after {
+      display: inline;
+    }
+
+    .media-button-1 .web.media-button .label.media-button {
+      display: none;
+    }
+
+  }
+</style><!-- Shady DOM styles for media-menu -->
+<style scope=""media-menu-1"">
+  .media-menu-1 {
+    outline: none;
+  }
+
+  .media-menu-1 .media-menu-inner.media-menu {
+    z-index: -1;
+    top: -40rem;
+    background-color: #222;
+    margin: 0;
+    overflow: hidden;
+    transition-duration: 0.2s;
+    transition-property: top;
+    transition-timing-function: ease;
+  }
+
+  .media-menu-1 .menu-group.media-menu {
+    position: relative;
+    line-height: normal;
+  }
+
+  @media (max-width: 889px) {
+    .media-menu-1 .medi",Archive.org
+Book of Five Rings,8,"a-menu-inner.media-menu {
+      position: absolute;
+      width: 100%;
+    }
+
+    .media-menu-1 .open.media-menu .media-menu-inner.media-menu {
+      top: 0;
+    }
+
+    .media-menu-1 .overflow-clip.media-menu {
+      position: absolute;
+      z-index: -1;
+      top: 4rem;
+      left: 0;
+      height: 0;
+      width: 100%;
+      overflow: hidden;
+      transition-duration: 0.2s;
+      transition-property: height;
+    }
+
+    .media-menu-1 .open.media-menu .overflow-clip.media-menu {
+      height: 40rem;
+    }
+
+  }
+
+  @media (min-width: 890px) {
+    .media-menu-1 .media-menu-inner.media-menu {
+      display: block;
+      position: static;
+      width: auto;
+      height: 5rem;
+      transition-property: none;
+    }
+
+    .media-menu-1 .menu-group.media-menu {
+      font-size: 0;
+    }
+
+  }
+</style><!-- Shady DOM styles for primary-nav -->
+<style scope=""primary-nav-1"">
+  .primary-nav-1 button.primary-nav:focus,
+  .primary-nav-1 input.primary-nav:focus {
+    outline: none;
+  }
+
+  .primary-nav-1 nav.primary-nav {
+    position: relative;
+    display: flex;
+    height: 4rem;
+    grid-template-areas: 'hamburger empty heart search user';
+    -ms-grid-columns: 4rem minmax(1rem, 100%) 4rem 4rem 4rem;
+    grid-template-columns: 4rem auto 4rem 4rem 4rem;
+    -ms-grid-rows: 100%;
+    grid-template-rows: 100%;
+    background: #222;
+    border-bottom: 1px solid #333;
+  }
+
+  .primary-nav-1 nav.hide-search.primary-nav {
+    grid-template-areas: 'hamburger empty heart user';
+    -ms-grid-columns: 4rem minmax(1rem, 100%) 4rem 4rem;
+    grid-template-columns: 4rem auto 4rem 4rem;
+  }
+
+  .primary-nav-1 .right-side-section.primary-nav {
+    display: flex;
+    margin-left: auto;
+    user-select: none;
+  }
+
+  .primary-nav-1 button.primary-nav {
+    background: none;
+    color: inherit;
+    border: none;
+    font: inherit;
+    cursor: pointer;
+  }
+
+  .primary-nav-1 .branding.primary-nav {
+    position: static;
+    float: left;
+    margin: 0 !important;
+    padding: 0 5px 0 10px;
+    -webkit-tr",Archive.org
+Book of Five Rings,9,"ansform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    transform: translate(0, 0);
+  }
+
+  .primary-nav-1 slot.primary-nav,
+  .primary-nav-1 .branding.primary-nav {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+  }
+
+  .primary-nav-1 media-menu.primary-nav {
+    flex: 1;
+    justify-self: stretch;
+  }
+
+  .primary-nav-1 .ia-logo.primary-nav {
+    height: 3rem;
+    width: 2.7rem;
+    display: inline-block;
+  }
+
+  .primary-nav-1 .ia-wordmark.primary-nav {
+    height: 3rem;
+    width: 9.5rem;
+  }
+
+  .primary-nav-1 .ia-logo.primary-nav,
+  .primary-nav-1 .ia-wordmark.primary-nav {
+    margin-right: 5px;
+  }
+
+  .primary-nav-1 .hamburger.primary-nav {
+    -ms-grid-row: 1;
+    -ms-grid-column: 1;
+    grid-area: hamburger;
+    padding: 0;
+  }
+
+  .primary-nav-1 .hamburger.primary-nav svg.primary-nav {
+    height: 4rem;
+    width: 4rem;
+    fill: #fff;
+  }
+
+  .primary-nav-1 .mobile-donate-link.primary-nav {
+    display: inline-block;
+  }
+
+  .primary-nav-1 .mobile-donate-link.primary-nav svg.primary-nav {
+    height: 4rem;
+    width: 4rem;
+  }
+
+  .primary-nav-1 .mobile-donate-link.primary-nav .fill-color.primary-nav {
+    fill: rgb(255, 0, 0);
+  }
+
+  .primary-nav-1 .sr-only.primary-nav {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    clip: rect(1px, 1px, 1px, 1px);
+    -webkit-clip-path: inset(50%);
+    clip-path: inset(50%);
+    user-select: none;
+  }
+
+  .primary-nav-1 .search-trigger.primary-nav {
+    padding: 0;
+  }
+
+  .primary-nav-1 .search-trigger.primary-nav svg.primary-nav {
+    height: 4rem;
+    width: 4rem;
+  }
+
+  .primary-nav-1 .search-trigger.primary-nav .fill-color.primary-nav {
+    fill: #999;
+  }
+
+  .primary-nav-1 .search-activated.primary-nav {
+    position: relative;
+    z-index: 3;
+  }
+
+  .primary-nav-1 .upload.primary-nav {
+    display: none;
+  }
+
+  .primary-nav-1 .upload.primary-nav span.primary-nav {
+    display: none",Archive.org
+Book of Five Rings,10,";
+  }
+
+  .primary-nav-1 .upload.primary-nav svg.primary-nav {
+    height: 3rem;
+    width: 3rem;
+  }
+
+  .primary-nav-1 .screen-name.primary-nav {
+    display: none;
+    font-size: 1.3rem;
+    vertical-align: middle;
+    text-transform: uppercase;
+  }
+
+  .primary-nav-1 .user-menu.primary-nav {
+    color: #999;
+    padding: 0.5rem;
+    height: 100%;
+  }
+
+  .primary-nav-1 button.user-menu.primary-nav:hover,
+  .primary-nav-1 button.user-menu.primary-nav:focus {
+    color: #fff;
+    outline: none;
+  }
+
+  .primary-nav-1 .user-menu.active.primary-nav {
+    border-radius: 1rem 1rem 0 0;
+    background: #333;
+  }
+
+  .primary-nav-1 .user-menu.primary-nav img.primary-nav {
+    display: block;
+    width: 3rem;
+    height: 3rem;
+  }
+
+  .primary-nav-1 .link-home.primary-nav {
+    text-decoration: none;
+    display: inline-flex;
+  }
+
+  .primary-nav-1 a.link-home.primary-nav:focus,
+  .primary-nav-1 a.link-home.primary-nav:focus-visible {
+    outline-offset: 1px;
+  }
+
+  @media only screen and (min-width: 890px) and (max-device-width: 905px) {
+    .primary-nav-1 .branding.second-logo.primary-nav {
+      padding-right: 0;
+    }
+
+  }
+
+  @media (min-width: 906px) {
+    .primary-nav-1 .branding.second-logo.primary-nav {
+      padding-right: 20px;
+    }
+
+  }
+
+  @media (max-width: 889px) {
+    .primary-nav-1 slot.primary-nav[name='opt-sec-logo'] {
+      display: none;
+    }
+
+    .primary-nav-1 .right-side-section.primary-nav {
+      display: initial;
+    }
+
+    .primary-nav-1 .right-side-section.primary-nav .user-info.primary-nav {
+      float: right;
+    }
+
+  }
+
+  @media (min-width: 890px) {
+    .primary-nav-1 {
+      ;
+    }
+
+    .primary-nav-1 nav.primary-nav {
+      display: flex;
+      z-index: 4;
+      height: 5rem;
+      padding-right: 1.5rem;
+    }
+
+    .primary-nav-1 slot.primary-nav[name='opt-sec-logo-mobile'] {
+      display: none;
+    }
+
+    .primary-nav-1 .ia-logo.primary-nav,
+    .primary-nav-1 .ia-wordmark.primary-nav {
+      margin-right: 10px;
+    }
+
+    .primary-nav-1 .ha",Archive.org
+Strategy,1,"<!DOCTYPE html>
+<html lang=""en"">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+  <head data-release=0082f33f data-node=""www18.us.archive.org"">
+    <title>Full text of &quot;Strategy&quot;</title>
+
+          <meta name=""viewport"" content=""width=device-width, initial-scale=1.0""/>
+    
+        <meta name=""google-site-verification"" content=""Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8"" />
+    <meta name=""google-site-verification"" content=""bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk"" />
+
+    <meta name=""baggage"" content=""sentry-trace_id=44e3bedf2d0741c7bcc01e3d5910c6c7,sentry-sample_rate=0.001,sentry-transaction=%2Fdownload.php,sentry-public_key=94bf3037c1e245c8a927aaa4daad2dbb,sentry-environment=production,sentry-sampled=false""/>    <meta name=""sentry-trace"" content=""44e3bedf2d0741c7bcc01e3d5910c6c7-d979da41907341f6-0""/>
+    <script  nonce=""3c22d25658a4acd6ab802e07088fa488"" >
+/* @licstart  The following is the entire license notice for the
+ * JavaScript code in this page.
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * @licend  The above is the entire license notice
+ * for the JavaScript code in this page.
+ */
+</script>
+        <meta charset=""UTF-8"">
+                      <meta property=""mediatype"" content=""texts"">
+                      <meta property=""primary_collection"" content="""">
+            <",Archive.org
+Strategy,2,"script src=""//archive.org/includes/athena.js?v=0082f33f"" type=""text/javascript""></script>
+    <script src=""//archive.org/includes/apollo.js?v=0082f33f"" type=""text/javascript""></script>
+    <script src=""//archive.org/components/npm/lit/polyfill-support.js?v=0082f33f"" type=""text/javascript""></script>
+    <script src=""//archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=0082f33f"" type=""text/javascript""></script>
+<script nonce=""3c22d25658a4acd6ab802e07088fa488"" >
+      window.__realDefine = customElements.define.bind(customElements);
+      customElements.define = function() {
+        try {
+          return window.__realDefine.apply(this, arguments);
+        } catch (e) {
+          console.warn(e);
+        }
+      }
+    </script>    <script src=""//archive.org/includes/build/js/ia-topnav.min.js?v=0082f33f"" type=""text/javascript""></script>
+    <script src=""//archive.org/includes/build/js/archive.min.js?v=0082f33f"" type=""text/javascript""></script>
+<link rel=""canonical"" href=""https://archive.org/details/strategy00liddrich"">
+    <link href=""//archive.org/includes/build/css/archive.min.css?v=0082f33f"" rel=""stylesheet"" type=""text/css""/>
+    <link rel=""SHORTCUT ICON"" href=""https://archive.org/images/glogo.jpg""/>
+  </head>
+  <body class=""navia "">
+    <a href=""#maincontent"" class=""hidden-for-screen-readers"">Skip to main content</a>
+
+    <!-- Wraps all page content -->
+    <div id=""wrap""
+          >
+                    <div class=""ia-banners"">
+              <div
+        class=""ia-banner hidden post-appeal-20240905""
+        data-campaign=""post-appeal-20240905"">
+        <p><a href=""https://change.org/LetReadersRead"" rel=""ugc nofollow"">Ask the publishers</a> to restore access to 500,000+ books.</p>
+        <form class=""banner-close"" action="""" method=""get"" data-action=""ia-banner-close"">
+          <fieldset>
+            <button aria-label=""Close Banner"" type=""submit""></button>
+          </fieldset>
+        </form>
+      </div>
+          </div>
+          ",Archive.org
+Strategy,3,"          <div id=""topnav"">
+              <input class=""js_nav_tweaks"" type=""hidden"" value='[]'/>
+    <!-- Shady DOM styles for icon-hamburger -->
+<style scope=""icon-hamburger-1"">
+  .icon-hamburger-1 svg.icon-hamburger {
+    display: block;
+    height: 4rem;
+    width: 4rem;
+  }
+
+  .icon-hamburger-1 .fill-color.icon-hamburger {
+    fill: #fff;
+  }
+</style><!-- Shady DOM styles for login-button -->
+<style scope=""login-button-1"">
+  .login-button-1 .dropdown-toggle.login-button {
+    display: block;
+    text-transform: uppercase;
+    color: #ccc;
+    cursor: pointer;
+  }
+
+  .login-button-1 .dropdown-toggle.login-button svg.login-button {
+    height: 100%;
+    width: 4rem;
+  }
+
+  .login-button-1 .dropdown-toggle.login-button .fill-color.login-button {
+    fill: #999;
+  }
+
+  .login-button-1 .dropdown-toggle.login-button:active .fill-color.login-button,
+  .login-button-1 .dropdown-toggle.login-button:focus .fill-color.login-button,
+  .login-button-1 .dropdown-toggle.login-button:hover .fill-color.login-button {
+    fill: #fff;
+  }
+
+  .login-button-1 .active.login-button {
+    border-radius: 1rem 1rem 0 0;
+    background: #333;
+  }
+
+  .login-button-1 .active.login-button .fill-color.login-button {
+    fill: #fff;
+  }
+
+  .login-button-1 span.login-button {
+    display: none;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    color: #999;
+  }
+
+  .login-button-1 span.login-button a.login-button {
+    color: inherit;
+    text-decoration: none;
+    outline: 0;
+  }
+
+  .login-button-1 a.login-button:hover,
+  .login-button-1 a.login-button:active,
+  .login-button-1 a.login-button:focus {
+    color: #fff !important;
+    outline: none !important;
+    outline-offset: inherit !important;
+  }
+
+  @media (min-width: 890px) {
+    .login-button-1 .logged-out-toolbar.login-button {
+      padding: 1rem 0.5rem;
+      vertical-align: middle;
+    }
+
+    .login-button-1 .active.login-button {
+      background: transparent;
+    }
+
+    .login-button-1 .dropdown-toggle.login-button {
+      d",Archive.org
+Strategy,4,"isplay: inline-block;
+      vertical-align: middle;
+    }
+
+    .login-button-1 .dropdown-toggle.login-button svg.login-button {
+      height: 3rem;
+      width: 3rem;
+      display: block;
+    }
+
+    .login-button-1 span.login-button {
+      display: inline;
+      vertical-align: middle;
+    }
+
+  }
+</style><!-- Shady DOM styles for nav-search -->
+<style scope=""nav-search-1"">
+  .nav-search-1 input.nav-search[type=""text""] {
+    color: #222;
+  }
+
+  .nav-search-1 input.nav-search:focus {
+    outline: none;
+  }
+
+  .nav-search-1 button.nav-search {
+    background: none;
+    color: inherit;
+    border: none;
+    font: inherit;
+    cursor: pointer;
+  }
+
+  .nav-search-1 button.nav-search:focus {
+    outline: none;
+  }
+
+  .nav-search-1 .search.nav-search {
+    padding-top: 0;
+    margin-right: 0.5rem;
+  }
+
+  .nav-search-1 .search.nav-search svg.nav-search {
+    position: relative;
+    fill: ;
+  }
+
+  .nav-search-1 .search-activated.nav-search {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: absolute;
+    top: 0;
+    right: 4rem;
+    bottom: 0;
+    left: 4rem;
+    z-index: 3;
+    padding: 0.5rem 0.2rem;
+    border-radius: 1rem 1rem 0 0;
+    background: #333;
+  }
+
+  .nav-search-1 .search-inactive.nav-search {
+    display: none;
+  }
+
+  .nav-search-1 .search-activated.nav-search .highlight.nav-search,
+  .nav-search-1 .search-activated.nav-search .search.nav-search {
+    background: #fff;
+    border-radius: 0.5rem;
+  }
+
+  .nav-search-1 .search-activated.nav-search .highlight.nav-search {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    margin: 0 0.5rem;
+  }
+
+  .nav-search-1 .search-activated.nav-search .search.nav-search {
+    height: 100%;
+    padding: 0;
+    margin-right: 0;
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+  }
+
+  .nav-search-1 .search-activated.nav-search .search.nav-search svg.nav-search {
+    height: 3rem;
+    width: 3rem;
+  }
+
+  .nav-search-",Archive.org
+Strategy,5,"1 .search-activated.nav-search .search-field.nav-search {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    padding-left: 1rem;
+    border-radius: 0.5rem;
+    border: none;
+    font-size: 1.6rem;
+    text-align: center;
+  }
+
+  .nav-search-1 .search-activated.nav-search .search-field.nav-search:focus {
+    outline: none;
+  }
+
+  @keyframes fade-in-nav-search-1 {
+    0% {
+      opacity: 0;
+    }
+
+    100% {
+      opacity: 1;
+    }
+
+  }
+
+  .nav-search-1 .fade-in.nav-search {
+    animation: fade-in-nav-search-1 0.2s forwards;
+  }
+
+  @media (min-width: 890px) {
+    .nav-search-1 .search.nav-search svg.nav-search {
+      display: inline;
+      width: 2.8rem;
+      height: 2.8rem;
+      vertical-align: -14px;
+    }
+
+    .nav-search-1 .search.nav-search path.nav-search {
+      fill: #333;
+    }
+
+    .nav-search-1 .search-inactive.nav-search,
+    .nav-search-1 .search-activated.nav-search {
+      display: block;
+      position: static;
+      padding: 1.1rem 0.2rem;
+      background: transparent;
+    }
+
+    .nav-search-1 .search-activated.nav-search .highlight.nav-search {
+      width: 13rem;
+      height: 2.8rem;
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+      flex-direction: row-reverse;
+    }
+
+    .nav-search-1 .search-activated.nav-search .search-field.nav-search {
+      width: calc(100% - 28px);
+      height: 100%;
+      padding-left: 0;
+      font-size: 1.4rem;
+      text-align: left;
+    }
+
+    .nav-search-1 .search-activated.nav-search .search.nav-search svg.nav-search {
+      width: 2.8rem;
+      height: 2.8rem;
+    }
+
+  }
+</style><!-- Shady DOM styles for media-button -->
+<style scope=""media-button-1"">
+  .media-button-1 a.media-button {
+    display: inline-block;
+    text-decoration: none;
+  }
+
+  .media-button-1 .menu-item.media-button {
+    display: inline-block;
+    width: 100%;
+    padding: 0;
+    font-size: 1.6rem;
+    text-align: left;
+    background: transparent;
+    -webk",Archive.org
+Strategy,6,"it-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .media-button-1 .menu-item.media-button:focus {
+    outline: none;
+  }
+
+  .media-button-1 .label.media-button {
+    display: inline-block;
+    padding: 0;
+    font-weight: 400;
+    color: #fff;
+    text-align: left;
+    vertical-align: middle;
+  }
+
+  .media-button-1 .menu-item.media-button>.icon.media-button {
+    display: inline-flex;
+    vertical-align: middle;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .media-button-1 .menu-item.media-button>.icon.media-button>svg.media-button {
+    height: 4rem;
+    width: 4rem;
+  }
+
+  .media-button-1 .menu-item.selected.media-button .icon.media-button {
+    background-color: #333;
+    border-radius: 1rem 0 0 1rem;
+  }
+
+  .media-button-1 .icon.media-button .fill-color.media-button {
+    fill: #999;
+  }
+
+  .media-button-1 .icon.active.media-button .fill-color.media-button {
+    fill: #fff;
+  }
+
+  .media-button-1 .donate.media-button .fill-color.media-button {
+    fill: #f00;
+  }
+
+  @media (min-width: 890px) {
+    .media-button-1 .menu-item.media-button {
+      width: auto;
+      height: 5rem;
+      color: #999;
+      display: inline-flex;
+    }
+
+    .media-button-1 .menu-item.media-button:hover,
+    .media-button-1 .menu-item.media-button:active,
+    .media-button-1 .menu-item.media-button:focus {
+      color: #fff;
+    }
+
+    .media-button-1 .menu-item.media-button:hover .fill-color.media-button,
+    .media-button-1 .menu-item.media-button:active .fill-color.media-button,
+    .media-button-1 .menu-item.media-button:focus .fill-color.media-button {
+      fill: #fff;
+    }
+
+    .media-button-1 .label.media-button {
+      display: none;
+    }
+
+    .media-button-1 .label.media-button,
+    .media-button-1 .web.media-button:after {
+      padding-right: 1rem;
+      font-size: 1.3rem;
+      text-transform: uppercase;
+      c",Archive.org
+Strategy,7,"olor: inherit;
+    }
+
+    .media-button-1 .web.media-button:after {
+      display: none;
+      content: ""web"";
+    }
+
+    .media-button-1 .donate.media-button,
+    .media-button-1 .more.media-button {
+      display: none;
+    }
+
+    .media-button-1 .menu-item.selected.media-button {
+      background: #474747;
+    }
+
+    .media-button-1 .menu-item.selected.media-button .label.media-button,
+    .media-button-1 .menu-item.selected.web.media-button:after {
+      color: #fff;
+    }
+
+    .media-button-1 .menu-item.selected.media-button .icon.media-button {
+      background: transparent;
+    }
+
+    .media-button-1 .web.selected.media-button .fill-color.media-button {
+      fill: #ffcd27;
+    }
+
+    .media-button-1 .texts.selected.media-button .fill-color.media-button {
+      fill: #faab3c;
+    }
+
+    .media-button-1 .video.selected.media-button .fill-color.media-button {
+      fill: #f1644b;
+    }
+
+    .media-button-1 .audio.selected.media-button .fill-color.media-button {
+      fill: #00adef;
+    }
+
+    .media-button-1 .software.selected.media-button .fill-color.media-button {
+      fill: #9ecc4f;
+    }
+
+    .media-button-1 .images.selected.media-button .fill-color.media-button {
+      fill: #aa99c9;
+    }
+
+  }
+
+  @media (min-width: 1200px) {
+
+    .media-button-1 .label.media-button,
+    .media-button-1 .web.media-button:after {
+      display: inline;
+    }
+
+    .media-button-1 .web.media-button .label.media-button {
+      display: none;
+    }
+
+  }
+</style><!-- Shady DOM styles for media-menu -->
+<style scope=""media-menu-1"">
+  .media-menu-1 {
+    outline: none;
+  }
+
+  .media-menu-1 .media-menu-inner.media-menu {
+    z-index: -1;
+    top: -40rem;
+    background-color: #222;
+    margin: 0;
+    overflow: hidden;
+    transition-duration: 0.2s;
+    transition-property: top;
+    transition-timing-function: ease;
+  }
+
+  .media-menu-1 .menu-group.media-menu {
+    position: relative;
+    line-height: normal;
+  }
+
+  @media (max-width: 889px) {
+    .media-menu-1 .media-menu-inner.me",Archive.org
+Strategy,8,"dia-menu {
+      position: absolute;
+      width: 100%;
+    }
+
+    .media-menu-1 .open.media-menu .media-menu-inner.media-menu {
+      top: 0;
+    }
+
+    .media-menu-1 .overflow-clip.media-menu {
+      position: absolute;
+      z-index: -1;
+      top: 4rem;
+      left: 0;
+      height: 0;
+      width: 100%;
+      overflow: hidden;
+      transition-duration: 0.2s;
+      transition-property: height;
+    }
+
+    .media-menu-1 .open.media-menu .overflow-clip.media-menu {
+      height: 40rem;
+    }
+
+  }
+
+  @media (min-width: 890px) {
+    .media-menu-1 .media-menu-inner.media-menu {
+      display: block;
+      position: static;
+      width: auto;
+      height: 5rem;
+      transition-property: none;
+    }
+
+    .media-menu-1 .menu-group.media-menu {
+      font-size: 0;
+    }
+
+  }
+</style><!-- Shady DOM styles for primary-nav -->
+<style scope=""primary-nav-1"">
+  .primary-nav-1 button.primary-nav:focus,
+  .primary-nav-1 input.primary-nav:focus {
+    outline: none;
+  }
+
+  .primary-nav-1 nav.primary-nav {
+    position: relative;
+    display: flex;
+    height: 4rem;
+    grid-template-areas: 'hamburger empty heart search user';
+    -ms-grid-columns: 4rem minmax(1rem, 100%) 4rem 4rem 4rem;
+    grid-template-columns: 4rem auto 4rem 4rem 4rem;
+    -ms-grid-rows: 100%;
+    grid-template-rows: 100%;
+    background: #222;
+    border-bottom: 1px solid #333;
+  }
+
+  .primary-nav-1 nav.hide-search.primary-nav {
+    grid-template-areas: 'hamburger empty heart user';
+    -ms-grid-columns: 4rem minmax(1rem, 100%) 4rem 4rem;
+    grid-template-columns: 4rem auto 4rem 4rem;
+  }
+
+  .primary-nav-1 .right-side-section.primary-nav {
+    display: flex;
+    margin-left: auto;
+    user-select: none;
+  }
+
+  .primary-nav-1 button.primary-nav {
+    background: none;
+    color: inherit;
+    border: none;
+    font: inherit;
+    cursor: pointer;
+  }
+
+  .primary-nav-1 .branding.primary-nav {
+    position: static;
+    float: left;
+    margin: 0 !important;
+    padding: 0 5px 0 10px;
+    -webkit-transform: transl",Archive.org
+Strategy,9,"ate(0, 0);
+    -ms-transform: translate(0, 0);
+    transform: translate(0, 0);
+  }
+
+  .primary-nav-1 slot.primary-nav,
+  .primary-nav-1 .branding.primary-nav {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+  }
+
+  .primary-nav-1 media-menu.primary-nav {
+    flex: 1;
+    justify-self: stretch;
+  }
+
+  .primary-nav-1 .ia-logo.primary-nav {
+    height: 3rem;
+    width: 2.7rem;
+    display: inline-block;
+  }
+
+  .primary-nav-1 .ia-wordmark.primary-nav {
+    height: 3rem;
+    width: 9.5rem;
+  }
+
+  .primary-nav-1 .ia-logo.primary-nav,
+  .primary-nav-1 .ia-wordmark.primary-nav {
+    margin-right: 5px;
+  }
+
+  .primary-nav-1 .hamburger.primary-nav {
+    -ms-grid-row: 1;
+    -ms-grid-column: 1;
+    grid-area: hamburger;
+    padding: 0;
+  }
+
+  .primary-nav-1 .hamburger.primary-nav svg.primary-nav {
+    height: 4rem;
+    width: 4rem;
+    fill: #fff;
+  }
+
+  .primary-nav-1 .mobile-donate-link.primary-nav {
+    display: inline-block;
+  }
+
+  .primary-nav-1 .mobile-donate-link.primary-nav svg.primary-nav {
+    height: 4rem;
+    width: 4rem;
+  }
+
+  .primary-nav-1 .mobile-donate-link.primary-nav .fill-color.primary-nav {
+    fill: rgb(255, 0, 0);
+  }
+
+  .primary-nav-1 .sr-only.primary-nav {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    clip: rect(1px, 1px, 1px, 1px);
+    -webkit-clip-path: inset(50%);
+    clip-path: inset(50%);
+    user-select: none;
+  }
+
+  .primary-nav-1 .search-trigger.primary-nav {
+    padding: 0;
+  }
+
+  .primary-nav-1 .search-trigger.primary-nav svg.primary-nav {
+    height: 4rem;
+    width: 4rem;
+  }
+
+  .primary-nav-1 .search-trigger.primary-nav .fill-color.primary-nav {
+    fill: #999;
+  }
+
+  .primary-nav-1 .search-activated.primary-nav {
+    position: relative;
+    z-index: 3;
+  }
+
+  .primary-nav-1 .upload.primary-nav {
+    display: none;
+  }
+
+  .primary-nav-1 .upload.primary-nav span.primary-nav {
+    display: none;
+  }
+
+  .prima",Archive.org
+Strategy,10,"ry-nav-1 .upload.primary-nav svg.primary-nav {
+    height: 3rem;
+    width: 3rem;
+  }
+
+  .primary-nav-1 .screen-name.primary-nav {
+    display: none;
+    font-size: 1.3rem;
+    vertical-align: middle;
+    text-transform: uppercase;
+  }
+
+  .primary-nav-1 .user-menu.primary-nav {
+    color: #999;
+    padding: 0.5rem;
+    height: 100%;
+  }
+
+  .primary-nav-1 button.user-menu.primary-nav:hover,
+  .primary-nav-1 button.user-menu.primary-nav:focus {
+    color: #fff;
+    outline: none;
+  }
+
+  .primary-nav-1 .user-menu.active.primary-nav {
+    border-radius: 1rem 1rem 0 0;
+    background: #333;
+  }
+
+  .primary-nav-1 .user-menu.primary-nav img.primary-nav {
+    display: block;
+    width: 3rem;
+    height: 3rem;
+  }
+
+  .primary-nav-1 .link-home.primary-nav {
+    text-decoration: none;
+    display: inline-flex;
+  }
+
+  .primary-nav-1 a.link-home.primary-nav:focus,
+  .primary-nav-1 a.link-home.primary-nav:focus-visible {
+    outline-offset: 1px;
+  }
+
+  @media only screen and (min-width: 890px) and (max-device-width: 905px) {
+    .primary-nav-1 .branding.second-logo.primary-nav {
+      padding-right: 0;
+    }
+
+  }
+
+  @media (min-width: 906px) {
+    .primary-nav-1 .branding.second-logo.primary-nav {
+      padding-right: 20px;
+    }
+
+  }
+
+  @media (max-width: 889px) {
+    .primary-nav-1 slot.primary-nav[name='opt-sec-logo'] {
+      display: none;
+    }
+
+    .primary-nav-1 .right-side-section.primary-nav {
+      display: initial;
+    }
+
+    .primary-nav-1 .right-side-section.primary-nav .user-info.primary-nav {
+      float: right;
+    }
+
+  }
+
+  @media (min-width: 890px) {
+    .primary-nav-1 {
+      ;
+    }
+
+    .primary-nav-1 nav.primary-nav {
+      display: flex;
+      z-index: 4;
+      height: 5rem;
+      padding-right: 1.5rem;
+    }
+
+    .primary-nav-1 slot.primary-nav[name='opt-sec-logo-mobile'] {
+      display: none;
+    }
+
+    .primary-nav-1 .ia-logo.primary-nav,
+    .primary-nav-1 .ia-wordmark.primary-nav {
+      margin-right: 10px;
+    }
+
+    .primary-nav-1 .hamburger.primary",Archive.org
