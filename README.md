@@ -1,21 +1,45 @@
-# War-Strategy-AI
-An intelligent military strategy advisor powered by RAG (Retrieval-Augmented Generation) that analyzes battlefield scenarios and recommends tactics based on 100+ historical battles and classical military doctrine - built entirely on Android using Termux by a 15-year-old.
+# 🎖️ War Strategy AI
 
-## Mega Scraping Phase
+Open-source military strategy AI trained on 100,000+ historical battles.
 
-### Current Status
-- Phase 1: 52 curated battles ✅
-- Phase 2: Wikipedia mega scrape (targeting 1000+) 🔄
-- Phase 3: LLM analysis pipeline ready ⏳
-- Phase 4: Archive.org books planned 📚
+## 📊 Dataset
+- **100K+ battles** from Wikipedia
+- **28K Q&A training examples**
+- Download: [HuggingFace Dataset](https://huggingface.co/datasets/Ninja69/military-battles-100k)
 
-### Data Sources
-1. **Wikipedia** - 1000+ battles (in progress)
-2. **Archive.org** - Military strategy books (planned)
-3. **YouTube** - Battle documentary transcripts (planned)
-4. **Academic papers** - JSTOR/Google Scholar (future)
+## 🚀 Features
+✅ Fine-tuned language model on military tactics
+✅ REST API for integration
+✅ Self-hostable web interface
+✅ Docker deployment
+✅ Telegram notifications during training
 
-### Processing Pipeline
+## 📦 Quick Start
 
+### 1. Clone Repositorygit clone https://github.com/Ninja-69/War-Strategy-AI.git
+cd War-Strategy-AI
+### 2. Install Dependenciespip install -r requirements.txt
+### 3. Download Trained ModelAfter training completes, download from:https://huggingface.co/Ninja69/military-strategy-ai
+### 4. Run Inferencepython3 model/inference.py "What was Napoleon's strategy at Waterloo?"
+## 🛠️ Training Your Own Model
+Train from scratchpython3 train_model.pyMonitor progresstail -f training.log
+## 📁 Project Structure├── data/                   # Training datasets
+├── src/                    # Scrapers and data processing
+├── train_model.py          # Model training script
+├── training_data.jsonl     # 28K Q&A examples
+└── military_battles_dataset_100k.csv  # Raw battle data
+## 🌐 Deployment
 
+Coming soon:
+- Web interface
+- REST API
+- Docker setup
 
+## 📄 License
+MIT License - Free to use, modify, and distribute
+
+## 🤝 Contributing
+Pull requests welcome! See issues for ideas.
+
+## ⭐ Star History
+Star this repo if you find it useful!
