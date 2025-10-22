@@ -2,3 +2,15 @@ data/embeddings/
 __pycache__/
 *.pyc
 *.log
+
+# Exclude large files from Git
+backups/*.tar.gz
+data/vectordb/
+*.tar.gz
+data/raw/*.csv
+
+# Exclude large model files (use Git LFS or external hosting)
+military_ai_model_v1/
+*.safetensors
+optimizer.pt
+.env
