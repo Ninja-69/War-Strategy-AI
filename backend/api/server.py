@@ -18,7 +18,7 @@ if not api_key:
     raise ValueError("GROQ_API_KEY not found! Create .env file in project root.")
 
 groq_client = Groq(api_key=api_key)
-vectordb_path = os.path.join(project_root, "data", "vectordb")
+vectordb_path = "/opt/war-room/War-Strategy-AI/data/vectordb"
 chroma_client = chromadb.PersistentClient(path=vectordb_path)
 collection = chroma_client.get_collection("battles")
 
